@@ -48,7 +48,7 @@ function TreasuryDashboard() {
       value: marketCap ? formatCurrency(marketCap, 0) : null,
     },
     {
-      title: 'CLAM Price',
+      title: 'COLD Price',
       value: marketPrice ? formatCurrency(marketPrice, 2) : null,
     },
     {
@@ -71,7 +71,7 @@ function TreasuryDashboard() {
       info: tooltipInfoMessages.staked,
     },
     {
-      title: 'Backing per CLAM',
+      title: 'Backing per COLD',
       value: backingPerClam ? formatCurrency(backingPerClam, 2) : null,
     },
     {
@@ -83,7 +83,7 @@ function TreasuryDashboard() {
     },
     {
       title: 'Current Index',
-      value: currentIndex ? trim(currentIndex, 2) + ' sCLAM' : null,
+      value: currentIndex ? trim(currentIndex, 2) + ' sCOLD' : null,
       info: tooltipInfoMessages.currentIndex,
     },
   ];

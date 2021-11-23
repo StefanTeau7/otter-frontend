@@ -1,6 +1,9 @@
 // Set the date we're counting down to
 var countDownDate = 1635724800000;
 
+//var countDownDate = 1640107272000;
+// = 2021-12-21 12:21:12
+
 // Update the count down every 1 second
 var x = setInterval(function () {
   // Get today's date and time

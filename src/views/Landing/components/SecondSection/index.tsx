@@ -19,7 +19,7 @@ function SecondSection() {
         <Card
           num={2}
           title="Treasury Growth"
-          subtitle="Otter's Treasury"
+          subtitle="Colonia's Treasury"
           desc="Treasury inflow is used to increase Otter's Treasury Balance and back outstanding CLAM tokens and regulate staking APY"
           img={HowItWorks02}
           reverse
@@ -27,7 +27,7 @@ function SecondSection() {
         <Card
           num={3}
           title="Staking Rewards"
-          subtitle="CLAM Token"
+          subtitle="COLD Token"
           desc="Compounds yields automatically through a treasury backed memecoin with intrinsic value"
           img={HowItWorks03}
         />
