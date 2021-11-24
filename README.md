@@ -1,6 +1,6 @@
-# [Colonia Frontend]
+# [Exercise Frontend]
 
-This is the front-end repo for Colonia Finance.
+This is the front-end repo for Exercise Finance.
 
 ## 🔧 Setting up Local Development
 
