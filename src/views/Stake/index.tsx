@@ -157,7 +157,7 @@ function Stake() {
             <Grid item>
               <div className="card-header">
                 <p className="single-stake-title">
-                  CLAM Staking ({String.fromCodePoint(0x1f9a6)}, {String.fromCodePoint(0x1f9a6)})
+                  COLD Staking ({String.fromCodePoint(0x1f9a6)}, {String.fromCodePoint(0x1f9a6)})
                 </p>
                 <RebaseTimer />
               </div>
@@ -219,7 +219,7 @@ function Stake() {
                       <p>Connect Wallet</p>
                     </Box>
                   </div>
-                  <p className="desc-text">Connect your wallet to stake CLAM2 tokens!</p>
+                  <p className="desc-text">Connect your wallet to stake COLD tokens!</p>
                 </div>
               ) : (
                 <>

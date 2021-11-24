@@ -119,8 +119,8 @@ function TreasuryDashboard() {
       <div className="hero">
         <Box component="div" color="text.primary">
           <p>Wen (3,3) becomes (🦦,🦦)</p>
-          <h1>Welcome to Otter Kingdom</h1>
-          <h3>The Decentralized Reserve Memecoin</h3>
+          <h1>Welcome to Colonia</h1>
+          <h3>The Decentralized Reserve Coin of the Metaverse</h3>
         </Box>
         <img src={OtterKing} />
       </div>

@@ -27,7 +27,7 @@
         },
         {
           "internalType": "address",
-          "name": "_maiClamLP",
+          "name": "_maiCOLDLP",
           "type": "address"
         }
       ],
